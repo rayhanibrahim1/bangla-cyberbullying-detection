@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+pandas
+numpy
+torch-geometric
+ipython
+git+https://github.com/csebuetnlp/normalizer

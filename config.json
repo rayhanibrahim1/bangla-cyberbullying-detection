@@ -1,0 +1,13 @@
+{
+  "model_name": "csebuetnlp/banglabert",
+  "max_len": 256,
+  "g_dim": 256,
+  "heads": 8,
+  "window": 2,
+  "drop": 0.1,
+  "num_labels": 2,
+  "labels": {
+    "0": "Non-Hate",
+    "1": "Hate"
+  }
+}
